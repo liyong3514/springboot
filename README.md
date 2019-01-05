@@ -1,0 +1,2 @@
+# springboot
+对基于ssm框架的简单项目使用springboot进行快速构建
